@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1569606729 source:c:\users\andre\desktop\pastas\exercicios\ex while\ex4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<time.h>
+	<windows.h>
+
